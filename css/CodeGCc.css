@@ -5,6 +5,10 @@
     background: -webkit-linear-gradient(#047177 ,#035256) !important;
     background: linear-gradient(#047177,#035256) !important;
 }
+#wb-sm .menu>li>a.wb-navcurr, #wb-sm .sm.open li a.wb-navcurr, #wb-sm .sm.open li a:focus, #wb-sm .sm.open li a:hover, #wb-sm .sm.open li summary.wb-navcurr, #wb-sm .sm.open li summary:focus, #wb-sm .sm.open li summary:hover {
+    background: #035256 !important;
+    color: #fff;
+}
 #wb-sttl img, #wb-sttl object{height:inherit !important}
 #wb-sttl a {
     display: initial !important;
