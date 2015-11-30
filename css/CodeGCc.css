@@ -1,4 +1,4 @@
-﻿#wb-sm{background:#047177 !important;}
+﻿#wb-sm{background:#646473 !important;}
 #wb-bnr {
     background: #047177 !important;
     background: -webkit-gradient(linear,left top,left bottom,from(#176ca7),to(#035256)) !important;
@@ -6,7 +6,7 @@
     background: linear-gradient(#047177,#035256) !important;
 }
 #wb-sm .menu>li>a.wb-navcurr, #wb-sm .sm.open li a.wb-navcurr, #wb-sm .sm.open li a:focus, #wb-sm .sm.open li a:hover, #wb-sm .sm.open li summary.wb-navcurr, #wb-sm .sm.open li summary:focus, #wb-sm .sm.open li summary:hover {
-    background: #035256 !important;
+    background: #047177 !important;
     color: #fff;
 }
 #wb-sttl img, #wb-sttl object{height:inherit !important}
