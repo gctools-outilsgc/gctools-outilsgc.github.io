@@ -1,4 +1,18 @@
-﻿#wb-bnr {background:#047177 !important;}
+﻿#wb-sm{background:#047177 !important;}
+#wb-bnr {
+    background: #047177 !important;
+    background: -webkit-gradient(linear,left top,left bottom,from(#176ca7),to(#035256)) !important;
+    background: -webkit-linear-gradient(#047177 ,#035256) !important;
+    background: linear-gradient(#047177,#035256) !important;
+}
+#wb-sttl img, #wb-sttl object{height:inherit !important}
+#wb-sttl a {
+    display: initial !important;
+}
+#wb-sttl span {
+    display: initial !important;
+     vertical-align: baseline; 
+}
 .btn-primary {
     color: #fff;
     background-color: #047177 !important;
