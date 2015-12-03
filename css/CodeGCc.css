@@ -77,3 +77,21 @@
 .bold-gc{
     font-weight: 800;   
 }
+#mb-pnl.modal-content {
+    background: #000;
+}
+#mb-pnl .lng-ofr, #mb-pnl .sm-pnl, #mb-pnl .srch-pnl {
+    background: #333;
+}
+#mb-pnl .modal-header {
+    border-bottom: 1px solid #000;}
+.overlay-def .modal-header {
+    background: #000;
+}
+.map-styling {
+    position: relative;
+    padding-bottom: 30%;
+    padding-top: 50px;
+    height: 0;
+    overflow: hidden;
+}
